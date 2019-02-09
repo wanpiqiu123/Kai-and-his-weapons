@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Kai.dir/main.cpp.o CMakeFiles/Kai.dir/function.cpp.o CMakeFiles/Kai.dir/Weapons.cpp.o CMakeFiles/Kai.dir/Inscriptions.cpp.o  -o Kai 

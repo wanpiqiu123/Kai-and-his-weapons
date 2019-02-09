@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/leo/Desktop/Kai/function.cpp
+head.h
+/Users/leo/Desktop/Kai/head.h
+
+/Users/leo/Desktop/Kai/head.h
+iostream
+-
+vector
+-
+fstream
+-
+
